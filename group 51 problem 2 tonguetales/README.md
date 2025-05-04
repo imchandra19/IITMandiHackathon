@@ -1,7 +1,7 @@
 # deeplearning_hackthon
  made for deeplearning  CS671 coursework  hackthon 
 
-
+google drive link for complete project that have all the models and EVLUATIONS : https://drive.google.com/file/d/1QfW9ZXuvmgY8Kf93dPABIozf-f4MLQIW/view?usp=sharing
 
 # TongueTales – AI-Powered Tongue Feature Extraction and Health Scoring
 
